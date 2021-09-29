@@ -1,6 +1,6 @@
 /vendor
 /.idea
+/storage/images
 Homestead.json
 Homestead.yaml
-.env
 .phpunit.result.cache

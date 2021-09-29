@@ -6,6 +6,9 @@
     "type": "project",
     "require": {
         "php": "^7.3|^8.0",
+        "ext-curl": "^7.4",
+        "ext-imagick": "*",
+        "guzzlehttp/guzzle": "^7.3",
         "laravel/lumen-framework": "^8.0"
     },
     "require-dev": {
